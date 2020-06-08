@@ -1,17 +1,20 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <!-- <InventoryListing title="คลังสินค้า"/> -->
+    <InventoryListingFetch title="คลังสินค้า"/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+// import InventoryListing from "./components/InventoryListing";
+import InventoryListingFetch from "./components/InventoryListingFetch";
+
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    // InventoryListing,
+    InventoryListingFetch
   }
 }
 </script>
