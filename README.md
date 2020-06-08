@@ -1,5 +1,7 @@
 # scg-vue-product-listing
 
+Vue.js basic tutorial for class example for interactive data by fetching external data
+
 ## Project setup
 ```
 npm install
