@@ -1,4 +1,4 @@
-# scg-vue-product-listing
+# scg-vue-product-listing 👨‍🏫
 
 Vue.js basic tutorial for class example for interactive data by fetching external data
 
